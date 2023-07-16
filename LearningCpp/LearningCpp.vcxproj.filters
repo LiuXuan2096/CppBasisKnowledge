@@ -21,5 +21,8 @@
     <ClCompile Include="C11新增的初始化方式.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="逗号运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
