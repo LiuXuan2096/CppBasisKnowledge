@@ -27,5 +27,8 @@
     <ClCompile Include="sizeof.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="C_01_HelloWorld.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
