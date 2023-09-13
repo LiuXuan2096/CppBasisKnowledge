@@ -1,3 +1,4 @@
+#if 0
 #include <stdio.h>
 
 void foo();
@@ -17,3 +18,4 @@ void foo() {
 	j = 20;
 	printf("Hello ShiShi.\n");
 }
+#endif
